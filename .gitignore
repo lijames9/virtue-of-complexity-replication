@@ -1,0 +1,17 @@
+# Licensed data (CRSP via WRDS) - share privately, do not commit
+CRSP_Stock_Index_Data.csv
+
+# Copyrighted paper
+*.pdf
+
+# Generated outputs
+results/
+results_*/
+
+# Python / editor
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+~$*
